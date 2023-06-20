@@ -11,26 +11,26 @@ Therefore, the objectives of this notebook are:
 
 ### Conclusion
 #### 1. In terms of **Gender**:
-*         Males had higher scores in math while Females had higher scores in reading and writing.
+* Males had higher scores in math while Females had higher scores in reading and writing.
 
 #### 2. In terms of **Ethnicity**:
-*         They are not equally distributed.
-*         Group E has the highest score in all 3 tests.
+* They are not equally distributed.
+* Group E has the highest score in all 3 tests.
 
 #### 3. In term of **Parent's education**:
-*         Most of them had studied high school.
-*         Master's degree had the lowest population but they perform better at the exams
+* Most of them had studied high school.
+* Master's degree had the lowest population but they perform better at the exams
 
 #### 4. In terms of **Lunch type**:
-*         Students prefer standard lunch to free/reduced lunch (almost double).
-*         Students who eat standard lunch have higher scores than free/reduced lunch.
-*         Lunch Type greatly impacts the exam scores.
+* Students prefer standard lunch to free/reduced lunch (almost double).
+* Students who eat standard lunch have higher scores than free/reduced lunch.
+* Lunch Type greatly impacts the exam scores.
 
 #### 5. In terms of **Practice sport**:
-*         More than 3/4 of the respondent said that they practice sport sometimes/regularly.
-*         Those Who practice sports tend to have higher scores than those who don't.
-*         They had a somewhat impact on the exam scores but were not significant.
+* More than 3/4 of the respondent said that they practice sports sometimes/regularly.
+* Those Who practice sports tend to have higher scores than those who don't.
+* They had a somewhat impact on the exam scores but were not significant.
 
 #### 6. In term of **Weekly study hours**:
-*         The more the students study, the higher scores they get.
-*         This impact should be considered.
+* The more the students study, the higher scores they get.
+* This impact should be considered.
