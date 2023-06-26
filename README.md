@@ -1,7 +1,8 @@
 # Student-Exam-Scores-EDA
 
+You can find the notebook [here](https://www.kaggle.com/code/gianinh/student-exam-performance-eda?scriptVersionId=134908127)
 ### Problems and Objectives
-The analysis of student exam scores is crucial for understanding the relationships between different variables and identifying trends and patterns within the dataset. By gaining insights into these relationships and patterns, we can develop predictive models that help improve student performance and academic success. However, without a comprehensive examination of the data and appropriate visualization techniques, it becomes challenging to draw meaningful conclusions and to conduct later on research.
+Analyzing student exam scores is crucial for understanding the relationships between different variables and identifying trends and patterns within the dataset. By gaining insights into these relationships and practices, we can develop predictive models that help improve student performance and academic success. However, without a comprehensive examination of the data and appropriate visualization techniques, it becomes challenging to draw meaningful conclusions and conduct later on research.
 
 Therefore, the objectives of this notebook are:
 * To explore the relationships between different variables in the dataset
